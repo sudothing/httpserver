@@ -1,0 +1,5 @@
+#HTTPServer配置文件
+
+HOST = '0.0.0.0'
+PORT = 8888
+ADDR = (HOST,PORT)
